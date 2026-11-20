@@ -3,12 +3,14 @@
    avaliações (REV) e jogos (G).
    ============================================================ */
 var ME={nome:'Dcs2020game',user:'@dcs2020game',robloxId:'1102039909',email:'dcs2020gamer@gmail.com',discord:'dcs2020game',
- bio:'Desenvolvedor Roblox Pleno. e fundador da CoreForge Studios. Vencedor da DevRise GameJam, transformo ideias em experiências imersivas com foco principal em modelagem 3D e construção de cenários atmosféricos, além de atuar com sistemas funcionais em Luau, VFX e interfaces.',
+ discordServer:'https://discord.gg/E5ngAJst44', /* link de convite do seu servidor/portfólio no Discord, ex.: 'https://discord.gg/xxxxxx' */
+ twitter:'dcs2020game', /* seu usuário do X/Twitter, sem @, ex.: 'dcs2020game' */
+ bio:'Desenvolvedor Roblox Pleno. e finalista da DevRise GameJam, transformo ideias em experiências imersivas com foco principal em modelagem 3D e construção de cenários atmosféricos, além de atuar com sistemas funcionais em Luau, VFX e interfaces.',
  stats:[['5+','anos no Roblox'],['30+','projetos entregues'],['20','clientes atendidos']],
- exp:[['2026','Dev Freelancer · Vencedor da DevRise GameJam · CEO da CoreForge Studios'],['2025','Começo dos estudos em Desenvolvimento de Sistemas'],['2024','Comecei a desenvolver jogos'],['2023','Comecei a estudar Luau']],
- en:{bio:'Mid-level Roblox developer and founder of CoreForge Studios. DevRise GameJam winner, I turn ideas into immersive experiences, with a main focus on 3D modeling and atmospheric environment building, plus functional systems in Luau, VFX and interfaces.',
+ exp:[['2026','Dev Freelancer · Finalista da DevRise GameJam'],['2025','Começo dos estudos em Desenvolvimento de Sistemas'],['2024','Comecei a desenvolver jogos'],['2023','Comecei a estudar Luau']],
+ en:{bio:'Mid-level Roblox developer and DevRise GameJam finalist, I turn ideas into immersive experiences, with a main focus on 3D modeling and atmospheric environment building, plus functional systems in Luau, VFX and interfaces.',
   stats:['years on Roblox','projects delivered','clients served'],
-  exp:[['2026','Freelance Dev · DevRise GameJam winner · CEO of CoreForge Studios'],['2025','Started studying Systems Development'],['2024','Started developing games'],['2023','Started learning Luau']]}};
+  exp:[['2026','Freelance Dev · DevRise GameJam finalist'],['2025','Started studying Systems Development'],['2024','Started developing games'],['2023','Started learning Luau']]}};
 var CATS=[['modelagem','Modelagem','Meshes, itens e modelos prontos para o jogo.','Modeling','Meshes, items and game-ready models.'],['script','Script','Sistemas em Luau: lógica, dados, economia e multiplayer.','Script','Systems in Luau: logic, data, economy and multiplayer.'],['building','Building','Mapas, cenários e ambientes com atmosfera.','Building','Maps, scenery and environments with atmosphere.'],['vfx','VFX','Partículas, shaders visuais e efeitos de impacto.','VFX','Particles, visual effects and impact feedback.'],['gui','GUI','Interfaces limpas, responsivas e animadas.','GUI','Clean, responsive and animated interfaces.']];
 /* media: troque src por suas imagens/vídeos (type:'video' para vídeo). Sem src = placeholder. */
 var W=[
